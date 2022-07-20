@@ -1,5 +1,5 @@
 - Hey there, My name is Mr Poodhil. I am a student who is studying in the computer science field
-- I don't have any huge interests but just a lot of minor ones, some noticable ones are Gaming, PC's, Mechanical Keyboards and Anime/Manga
+
 -
 
 <!---
